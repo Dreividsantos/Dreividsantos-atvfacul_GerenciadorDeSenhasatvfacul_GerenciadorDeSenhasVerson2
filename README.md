@@ -1,7 +1,7 @@
 
 Repositório pra faculdade LabProjetosInovadores VersãoII 
 
-Adição de criptografia de senhas 
+Adição de criptografia de senhas, listagem de senhas e feedbacks  
 
 Repositório pra faculdade cadeirea de Laboratório de Projetos Inovadores
 
